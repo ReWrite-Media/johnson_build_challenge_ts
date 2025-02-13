@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "public": true,
