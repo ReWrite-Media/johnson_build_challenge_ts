@@ -42,4 +42,12 @@ namespace johnsonBuildChallenge {
         }
     }
 
+    /**
+     * This function launches the Agent
+     */
+    //% block = "agent launch"
+    export function launch_agent(): void {
+        player.execute("scoreboard players set .output global 5")
+    }
+
 }
