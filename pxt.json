@@ -1,6 +1,6 @@
 {
     "name": "johnson_build_challenge_ts",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "",
     "dependencies": {
         "core": "*",
