@@ -48,6 +48,7 @@ namespace johnsonBuildChallenge {
     //% block = "agent launch"
     export function launch_agent(): void {
         player.execute("scoreboard players set .output global 5")
+        loops.pause(communicationsTimeout)
     }
 
 }
